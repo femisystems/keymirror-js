@@ -1,0 +1,26 @@
+{
+  "name": "keymirror-js",
+  "version": "1.0.0",
+  "description": "create a mirror object from objects, arrays or comma-separated strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-fabolaji/keymirror-js.git"
+  },
+  "keywords": [
+    "mirror",
+    "object",
+    "array",
+    "string",
+    "key"
+  ],
+  "author": "Abolaji Femi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-fabolaji/keymirror-js/issues"
+  },
+  "homepage": "https://github.com/andela-fabolaji/keymirror-js#readme"
+}
